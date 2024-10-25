@@ -1,0 +1,21 @@
+Weather_condition,Road_condition,Time,Driver_condition,vehicle_type,Numbers_involved,Accident_severity
+Rainy ,Wet,Night,Speeding,Car,5,1
+Sunny,Dry ,Morning ,Alcohcol_influence,Motocycle,2,1
+Fog,slippery,Afternoon,Speeding,Bus,5,2
+Sunny,Dry ,Morning ,Normal,Motocycle,5,2
+Sunny,Dry ,Morning ,Alcohcol_influence,Car,3,1
+Rainy ,Wet,Night,Alcohcol_influence,Car,10,3
+Fog,slippery,Morning ,Normal,Bus,3,3
+Rainy ,Wet,Afternoon,Speeding,Car,5,2
+Rainy ,Wet,Afternoon,Speeding,Car,6,3
+Fog,slippery,Morning ,Normal,Motocycle,13,2
+Fog,slippery,Morning ,Normal,Car,5,1
+Sunny,Dry ,Afternoon,Speeding,Bus,9,1
+Fog,slippery,Morning ,Normal,Car,3,3
+Rainy ,Wet,Night,Alcohcol_influence,Motocycle,6,2
+Fog,slippery,Morning ,Speeding,Motocycle,15,1
+Sunny,Dry ,Afternoon,Normal,Bus,10,3
+Rainy ,Dry ,Night,Speeding,Bus,6,1
+Fog,slippery,Morning ,Normal,Bus,3,3
+Fog,slippery,Morning ,Alcohcol_influence,Car,10,3
+Rainy ,Wet,Night,Speeding,Car,5,3
